@@ -10,7 +10,7 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Katerina
+    title: Hi, my name is Katerina Karavioti
   blog: {I am a Master's degree student at London Business School, doing the Master's in Financial Analysis. I come from Greece and I did my Bachelor in Business Management at the University of Surrey.}
   contact:
     address:
@@ -44,19 +44,19 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
+        url: #
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: #
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: #
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/Katerinakaravioti
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/aikaterini-karavioti-2b5925160/
   image: ''
   name: Your name
   navigation:
