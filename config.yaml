@@ -1,6 +1,6 @@
 baseURL: https://katerinakaravioti.netlify.app/
 languageCode: en-us
-title: Portfolio website of Katerina
+title: Portfolio website of Katerina Karavioti
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,22 +10,22 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: This is Katerina's Portfolio
-  blog: {}
+    title: Hi, my name is Katerina
+  blog: {I am a Master's degree student at London Business School, doing the Master's in Financial Analysis. I come from Greece and I did my Bachelor in Business Management at the University of Surrey.}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+      - city: London, LND W23JR
+        country: United Kingdom
+        street: Inverness Terrae
+        title: address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: kkaravioti.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: 07585647820
         title: Phone
   custom_css: []
   custom_js: []
