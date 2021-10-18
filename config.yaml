@@ -93,10 +93,10 @@ params:
         subtitle: My favorite places
         title: Brunching in London
         url: blogs/brunch_london
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+      - image: brussels.jpg
+        subtitle: As seen in the Airbnb platform
+        title: Property types in Brusells
+        url: blogs/brussels
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
