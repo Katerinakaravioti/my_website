@@ -5,7 +5,7 @@ categories:
 date: "2021-09-30"
 description: My personal interests # the title that will show up once someone gets to this page
 draft: false
-image: summer.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: tinos.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: my_vacation # slug is the shorthand URL address... no spaces plz
@@ -33,8 +33,24 @@ knitr::opts_chunk$set(
 
 📍Peloponnese, Greece
 
+  
+```{r, setup, echo=FALSE}
+knitr::opts_chunk$set(
+  message = FALSE, 
+  warning = FALSE, 
+  tidy=FALSE,     # display code as typed
+  size="small")   # slightly smaller font for code
+options(digits = 3)
 
-image: summer2.jpg 
+# default figure size
+knitr::opts_chunk$set(
+  fig.width=6.75, 
+  fig.height=6.75,
+  fig.align = "center"
+)
+```
+
+
 
 
 

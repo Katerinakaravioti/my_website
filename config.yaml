@@ -85,13 +85,13 @@ params:
         subtitle: Biography
         title: About me
         url: blogs/about_me
-      - image: pic02.jpg
+      - image: summer2.jpg
         subtitle: Exploring Greece
         title: My summer vacation
-        url: blogs/my_hobbies
+        url: blogs/my_vacation
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: My favorite places
+        title: Brunching in London
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
