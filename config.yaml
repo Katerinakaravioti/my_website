@@ -86,8 +86,8 @@ params:
         title: About me
         url: blogs/about_me
       - image: pic02.jpg
-        subtitle: A bit more personal...
-        title: My hobbies
+        subtitle: Exploring Greece
+        title: My summer vacation
         url: blogs/my_hobbies
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
