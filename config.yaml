@@ -89,10 +89,10 @@ params:
         subtitle: Exploring Greece
         title: My summer vacation
         url: blogs/my_vacation
-      - image: pic03.jpg
+      - image: brunch.jpg
         subtitle: My favorite places
         title: Brunching in London
-        url: blogs/magna
+        url: blogs/brunch_london
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
