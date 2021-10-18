@@ -53,10 +53,10 @@ params:
        # url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://github.com/tythelena
+        url: https://github.com/Katerinakaravioti
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/aikaterini-karavioti-2b5925160/
   image: ''
   name: Your name
   navigation:
