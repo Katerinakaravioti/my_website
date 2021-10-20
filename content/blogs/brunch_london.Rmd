@@ -12,6 +12,9 @@ slug: brunch_london # slug is the shorthand URL address... no spaces plz
 title: Being a foodie in London
 ---
   
+```{r}
+library (knitr)
+```
 
 
 
@@ -29,4 +32,9 @@ knitr::opts_chunk$set(
   fig.height=6.75,
   fig.align = "center"
 )
+```
+
+```{r}
+knitr::include_graphics("/img/violas.jpg",error =FALSE)
+
 ```

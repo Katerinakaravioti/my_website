@@ -96,15 +96,15 @@ params:
       - image: brussels.jpg
         subtitle: As seen in the Airbnb platform
         title: Property types in Brusells
-        url: blogs/brussels
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        url: blogs/brussels_assign
+      - image: climate.jpg
+        subtitle: And its effect on weather anomalies
+        title: Climate change
+        url: blogs/climate_ch
+      - image: beer.jpg
+        subtitle: On a global scale
+        title: Drinking Consumption
+        url: blogs/beer_cons
   two:
     buttonText: Get Started
     enable: yes
