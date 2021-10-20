@@ -104,7 +104,7 @@ params:
       - image: beer.jpg
         subtitle: On a global scale
         title: Drinking Consumption
-        url: blogs/beer_cons
+        url: blogs/beer_consu
   two:
     buttonText: Get Started
     enable: yes
